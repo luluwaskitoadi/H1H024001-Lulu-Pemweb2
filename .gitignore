@@ -1,0 +1,6 @@
+latihan-laravel/vendor
+latihan-laravel/node_modules
+latihan-laravel/.env
+latihan-fiber/*.exe
+latihan-fiber/.env
+.DS_Store
